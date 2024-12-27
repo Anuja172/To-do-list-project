@@ -36,5 +36,5 @@ function showTask(){
 }
 showTask();
 
-export default App 
+
 
